@@ -9,7 +9,8 @@ You can add, edit or delete the name and category of the course, using the butto
 <li>Spring</li>
 <li>Angular Material</li>
 <li>Java</li>
-<li>JavaScrpit</li>
+<li>JavaScript</li>
+<li>TypeScript</li>
 </ul>
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/100448527/207471988-6b93495d-bb18-4fb6-9667-cdda68e38032.gif)
