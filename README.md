@@ -12,8 +12,7 @@ You can add, edit or delete the name and category of the course, using the butto
 <li>JavaScrpit</li>
 </ul>
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/100448527/207470088-ee33a56a-bab6-435f-b9d7-4df2a4d41365.gif)
-
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/100448527/207471988-6b93495d-bb18-4fb6-9667-cdda68e38032.gif)
 
 ## Available Scripts
 
